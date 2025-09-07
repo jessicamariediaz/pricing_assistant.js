@@ -1,2 +1,3 @@
-# Coding Challenge Template for ISM3232
+# Coding Challenge 2a for ISM3232
+product pricing assistant
 
